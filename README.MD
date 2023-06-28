@@ -1,4 +1,4 @@
-# NetMapMaker
+# NetMapMaker !["All releases"](https://github.com/igsltk/NetMapMaker/releases/) !["Latest Release v1.0"](https://github.com/igsltk/NetMapMaker/releases/tag/release-1-0)
 
 ## RU:
 
