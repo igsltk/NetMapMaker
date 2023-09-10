@@ -1,4 +1,4 @@
-# NetMapMaker
+# NetMapMaker (ARP Scanner)
 
 ## RU:
 
